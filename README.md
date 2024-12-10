@@ -35,14 +35,6 @@ Please refer to Section 4 for the detailed discussion.
 
 This repository contains the following directories:
 
-### Core Code of Hierarchical Geofencing (hier_gf/)
-
-This directory includes the main codebase implementing our hierarchical geofencing framework:
-
-* GeofencingManager.swift: Manages geofencing sessions
-* Point-in-geofence algorithms: Core algorithms for geofence detection
-* Data Model: Defines the structure for geofence data
-
 
 ### Resource (resource/)
 
