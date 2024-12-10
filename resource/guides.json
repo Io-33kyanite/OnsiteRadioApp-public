@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "feature_id": 0,
+        "label": "D1",
+        "script": "千秋公園は、慶長7年（1602年）から、明治2年（1869年）の版籍奉還まで、12代267年間続いた秋田藩20万石佐竹氏の居城、久保田城跡です。常陸から国替えとなった初代秋田藩主佐竹義宣が、慶長8年に自然の台地を利用して築城したもので、石垣や天守閣を持たない平山城であったことが特徴です。明治29年（1896年）に近代公園設計の先駆者で祖庭ともいわれる長岡安平の設計により公園として整備され、秋田県出身の漢学者狩野良知が千秋公園（当時は「千秋園」）と命名しました。その由来は、秋田の「秋」に長久の意の「千」を冠し、長い繁栄を祈ったものといわれています。昭和59年（1984年）佐竹氏15代故義榮氏の遺志によって秋田市に寄贈されました。",
+        "translation_by_google": "Senshu Park is the remains of Kubota Castle, the castle of the Satake clan of the Akita domain, which ruled for 267 years and 12 generations, with a fief of 200,000 koku, from 1602 to 1869, when the domain was returned to the Emperor. The castle was built in 1605 by Satake Yoshinobu, the first lord of Akita, who was transferred from Hitachi to the domain, on a natural plateau. It is characterized by being a flatland castle without stone walls or a castle tower. In 1896, it was developed as a park based on the design of Nagaoka Yasuhei, a pioneer of modern park design and also known as the father of the garden, and was named Senshu Park (then 'Senshu Garden') by Akita-born Chinese scholar Kano Ryochi. It is said that the name was derived from the 'Akita' meaning 'autumn' and the 'sen' meaning 'long-lasting,' in hopes of long-lasting prosperity. In 1984, it was donated to Akita City in accordance with the will of the late Yoshihide, the 15th head of the Satake clan.",
+        "source": "The introduction of Senshu Park | Akita City's website. Access on September 22, 2024: https://www.city.akita.lg.jp/kurashi/doro-koen/1003685/1007159/1007194.html"
+    },
+    {
+        "id": 2,
+        "feature_id": 2,
+        "label": "D2",
+        "script": "本丸東側の一段低い土地を二の丸とし、勘定所・境目方役所・祈祷所安楽院・時鐘・金蔵・厩などを置いた。外部からの出入りは全て二の丸に集まるようになっており、松下門・黒門・厩門（不浄門）・土門（北御門）という4箇所の出入口を設けた。それぞれ下中城、上中城、山ノ手、八幡山に通じる。現在は松下門跡が千秋公園の正面入口になっているが、藩政期の正式な登城の道は黒門を経由するものだった。",
+        "translation_by_google": "The lower ground to the east of the Honmaru was the Ninomaru, where the accounting office, the border office, the Anrakuin prayer hall, the bell, the storehouse, the stables, etc. were located. All access from the outside was centered at Ninomaru, and there were four entrances: Matsushitamon, Kuromon, Umamon (Fujomon), and Domon (Kitagomon). They led to Shimonakagusuku, Kaminakagusuku, Yamanote, and Hachimanyama, respectively. Currently, the site of Matsushitamon is the main entrance to Senshu Park, but during the feudal period, the official route to the castle was via Kuromon.",
+        "source": "the second paragraph of the “Structure” section - Wikipedia Access on September 22, 2024: https://ja.wikipedia.org/wiki/久保田城"
+    },
+    {
+        "id": 3,
+        "feature_id": 3,
+        "label": "D3",
+        "script": "神明山の最高所を均して本丸とし、ここに藩主の居館である本丸御殿と政務所を置いた。周囲を多聞長屋と板塀で取り囲み、表門・裏門・帯曲輪門・埋門・切戸口という5箇所の出入口を設けた。表門は一ノ門ともいい、そこから二の丸へ通じる手前に長坂門（二ノ門）があった。南西隅で岬のように突出した最高所の土地を「出し」と呼び、「出し御書院」「御出書院」という櫓座敷を設けた[17]。",
+        "translation_by_google": "The highest point of Mt. Shinmei was leveled to form the Honmaru, where the lord's residence, the Honmaru Palace, and the government office were located. It was surrounded by Tamon-nagaya tenement houses and wooden fences, and had five entrances: the Omote Gate, Ura Gate, Obi-kuruwa Gate, Ume-mon, and Kiridoguchi. The Omote Gate was also called Ichi-no-mon, and just before it, which led to Ninomaru, was the Nagasaka Gate (Nino-mon). The land jutting out like a cape in the southwest corner at the highest point was called 'Dashi,' and a turret-style room called 'Dashi Goshoin' and 'Gode Shoin' was built there.[17]",
+        "source": "the first paragraph of the “Structure” section - Wikipedia Access on September 22, 2024: https://ja.wikipedia.org/wiki/久保田城"
+    },
+    {
+        "id": 8,
+        "feature_id": 8,
+        "label": "L4",
+        "script": "由緒\n秋田出身の国学者・神道家である平田篤胤（安永5年8月24日〈1776年10月6日〉 - 天保14年閏9月11日〈1843年11月2日〉）を顕彰し崇敬するため、平田門人であった小谷部甚左衛門らの有志が、南秋田郡寺内村（現・秋田市）の日吉八幡神社境内に平田篤胤を祀り創建した「平田神社」を母体としている[1]。小矢部は日吉神社の祠官で、明治14年（1881年）8月13日、針生源太郎・山中新十郎・桜田誠一郎・羽生氏熟とともに日吉神社境内に平田神社を創建することを秋田県令石田英吉に願い出、それに対し石田県令は同年8月26日付けでこれを認めた[1]。平田神社の社殿建設にあっては全国の平田門人がかかわっており、明治15年2月の県令あて嘆願書に名をつらねたのは、久保悳鄰、師岡正胤、古川豊彭（以上、東京府士族）、吉岡徳明、渡辺玄包（山口県士族）、久保季茲（東京府士族）、 井上頼圀（東京府平民）、 丸山作楽（長崎県平民）、 矢野玄道（愛媛県士族）の9人であった[1][注釈 1]。この嘆願書は、平田神社に対して特別の恩典を求めるもので、これに対し石田県令は、翌3月に金100円を下賜している[1]。明治42年（1909年）に至り秋田県教育会が中心となり久保田城内の正八幡社（旧県社八幡神社）を購入のうえ修繕し、佐藤信淵を合祀、彌高神社と改称した。大正5年（1916年）に現在地へ移築され、大正8年（1919年）には県社に列せられた。明治時代創建の神社であるが社殿が江戸時代の建築であるため、権現造の形式をとっている。\n祭神\n平田篤胤大人命、佐藤信淵大人命\n平田篤胤は、復古神道を創始して古典文化の復興に寄与し、その学問は「草莽の国学」として日本近代化のさきがけとなり、明治維新の原動力の源泉ともなった。なお、篤胤は没後の弘化2年（1845年）3月、「神霊真柱大人（かむたまのみはしらのうし）」の諡名霊神号を白川伯王家より賜っている[2]。佐藤信淵は、幕末期に各藩に招かれて藩政改革のために尽力した農政家であったが、それ以上に高い理想と広い構想をいだいた経世家であった[3]。彼は久保田藩領の雄勝郡西馬音内村（現・雄勝郡羽後町）の出身で、気吹舎の門人である[3]。",
+        "translation_by_google": "Origin\nThe shrine was founded as a shrine in the grounds of Hiyoshi Hachiman Shrine in Jinai Village, Minamiakita County (present-day Akita City) by volunteers including Hirata Jinzaemon, a disciple of Hirata, to honor and worship Hirata Atsutane (August 24, 1776 (October 6, 1776) - September 11, 1843 (November 2, 1843)), a scholar of Japanese classics and Shintoism from Akita.[1] Oyabe was a shrine official at Hiyoshi Shrine, and on August 13, 1881 (Meiji 14), together with Hariu Gentaro, Yamanaka Shinjuro, Sakurada Seiichiro, and Habu Ujimune, he petitioned Akita Prefectural Governor Ishida Eikichi to establish Hirata Shrine in the grounds of Hiyoshi Shrine, and Ishida approved the petition on August 26 of the same year.[1] Hirata disciples from all over Japan were involved in the construction of the Hirata Shrine. In February 1882, nine people signed a petition to the prefectural governor: Kubo Tokurin, Morooka Masatane, Furukawa Toyotaka (all samurai from Tokyo Prefecture), Yoshioka Tokuaki, Watanabe Genpo (samurai from Yamaguchi Prefecture), Kubo Toshiki (samurai from Tokyo Prefecture), Inoue Yorichikane (commoner from Tokyo Prefecture), Maruyama Sakuraku (commoner from Nagasaki Prefecture), and Yano Gendo (samurai from Ehime Prefecture).[1][Note 1] This petition asked for a special favor from Hirata Shrine, and in response, Governor Ishida bestowed 100 yen the following March.[1] In 1909, the Akita Prefectural Education Association took the lead in purchasing and repairing Sho-Hachiman Shrine (formerly the Prefectural Hachiman Shrine) in Kubota Castle, enshrining Sato Nobuhiro and renaming it Yataka Shrine. In 1916, it was moved to its current location, and in 1919, it was listed as a Prefectural Shrine. Although the shrine was built in the Meiji era, the main building was built in the Edo era, so it is built in the Gongen-zukuri style.\nEnshrined deities\nHirata Atsutane no Mikoto, Sato Nobuhiro no Mikoto\nHirata Atsutane founded the restoration of Shintoism and contributed to the revival of classical culture, and his scholarship, known as 'grassroots national learning,' was a pioneer in the modernization of Japan and was also a source of power for the Meiji Restoration. In March 1845, after his death, Atsutane was given the posthumous title of 'Divine Spirit Pillar' by the Shirakawa Haku family.[2] Sato Nobuhiro was an agricultural politician who was invited to various feudal domains during the late Edo period and worked hard to reform the domain's government, but he was also an economics scholar with lofty ideals and broad ideas.[3] He was from Nishimonai Village, Ogatsu County (now Ugo Town, Ogatsu County) in the territory of the Kubota domain, and was a disciple of the Kibuki-sha school.[3]",
+        "source": "彌高神社 - Wikipedia Access on September 22, 2024:  https://ja.wikipedia.org/wiki/彌高神社"
+    },
+    {
+        "id": 9,
+        "feature_id": 9,
+        "label": "L1",
+        "script": "1951年（昭和26年）、ハス研究家の大賀一郎博士が地元中学生などの協力を得て、千葉市検見川の泥炭層下の青泥層から、約2千年前のハスの種を発掘、発芽に成功しました。この古代ハスは、博士の名にちなみ「大賀ハス」と名付けられました。大賀ハスの花は、一重咲きの大輪で色は淡紅色、花びらにはっきりした条線はなく先端は内向きにややカールし、葉の表面は滑らかです。花の大きさは25cm前後の大型品種で、花の高さは1.5mほどになります。2002年（平成14年）4月26日、大賀ハスの品種保存に力を入れている蓮文化研究会理事長・印南洋造氏のご厚意により、蓮根を6株譲り受け、純粋を保つため鉢植えにし、この胡月池で栽培しています。",
+        "translation_by_google": "In 1951, lotus researcher Dr. Ichiro Ohga, with the help of local junior high school students, excavated and successfully germinated a 2,000-year-old lotus seed from the blue mud layer beneath the peat layer in Kemigawa, Chiba City. This ancient lotus was named 'Ohga Lotus' after the doctor. The Ohga lotus flower is a large, single-petaled flower with a pale pink color, no clear stripes on the petals, the tips curl slightly inward, and the surface of the leaves is smooth. The flower is a large variety, about 25 cm in size, and the height of the flower is about 1.5 m. On April 26, 2002, six lotus roots were kindly given to us by Mr. Yozo Innami, chairman of the Lotus Culture Research Association, who is working hard to preserve the variety of Ohga lotus, and we have been cultivating them in pots in this Kogetsu Pond to maintain their purity.",
+        "source": "All descriptions from the information board. (Akita City)"
+    },
+    {
+        "id": 10,
+        "feature_id": 10,
+        "label": "L2",
+        "script": "第12代秋田藩主佐竹義堯（文政8年（1825年）～明治17年（1884年））は、近代秋田を築いた最後の藩主であり、戊辰戦争では、新政府方に属して戦いました。明治維新の激動期を生きた象徴的な人物です。この銅像は、大正4年、義堯公の徳をしのぶ戊辰勤王記念銅像建設委員会によって本丸に建立されました。しかし、太平洋戦争により、昭和19年（1944年）に解体撤去され、台座だけが残っていました。その後、昭和28年に佐竹家から銅像が寄贈されましたが、市民から「小さな銅像は寂しい。ぜひ復元を。」との声が多く寄せられ、平成元年、戦前のものと同じ大きさで復元されました。",
+        "translation_by_google": "Satake Yoshitaka (1825-1884), the 12th lord of Akita, was the last lord to build modern Akita, and fought on the side of the new government during the Boshin War. He is a symbolic figure who lived through the tumultuous period of the Meiji Restoration. This bronze statue was erected in the main citadel in 1915 by the Boshin Loyalist Bronze Statue Construction Committee to commemorate Yoshitaka's virtues. However, due to the Pacific War, it was dismantled and removed in 1944, and only the pedestal remained. Later, in 1953, the Satake family donated the statue, but many citizens said, 'The small bronze statue looks lonely. Please restore it,' and in 1989, it was restored to the same size as the pre-war one.",
+        "source": "千秋公園佐竹義堯公銅像 | Akita City's website. Access on September 22, 2024: https://www.city.akita.lg.jp/kurashi/doro-koen/1003685/1007159/1009758/1007265.html"
+    },
+    {
+        "id": 12,
+        "feature_id": 12,
+        "label": "L3",
+        "script": "市政100周年を記念して復原された御隅櫓は本丸の北西隅に位置し、史料に記されている2階造りを基本とした設計で、最上階には展望台が設けられています。櫓内部では、佐竹氏の歴史を紹介するパネル展示をしています。櫓とは、見張り場と「矢倉」すなわち武器庫の役割を担った建物のことです。久保田城内には八つの御隅櫓がありました。近世の櫓は「隅櫓」と「多聞櫓（多聞長屋）」に分類でき、土塁や石垣などの城郭（城の囲い）に沿って設けられた多聞櫓に対して、城郭の隅に作られた櫓は隅櫓と呼ばれています。",
+        "translation_by_google": "The Osumi-yagura, restored to commemorate the 100th anniversary of the city's establishment, is located in the northwest corner of the Honmaru. It was designed based on the two-story structure described in historical documents, and has an observation deck on the top floor. Inside the yagura, there are panels introducing the history of the Satake clan. A yagura is a building that served as a lookout post and a 'yagura', or armory. There were eight Osumi-yagura within Kubota Castle. Early modern yagura can be classified as 'sumi-yagura' and 'tamon-yagura (tamon-nagaya)'. Tamon-yagura are built along the castle grounds (castle enclosures) of earthworks and stone walls, while yagura built in the corners of the castle grounds are called 'sumi-yagura'.",
+        "source": "久保田城御隅櫓案内 | Akita City's website. Access on September 22, 2024: https://www.city.akita.lg.jp/kanko/kanrenshisetsu/1002685/1009873/1002304.html"
+    },
+    {
+        "id": 14,
+        "feature_id": 14,
+        "label": "P1",
+        "script": "二の丸から本丸へと続く門の一つで主に夜間の出入りの際に使用した重層門の跡。2度の大火で消失し、そのつど再建され、明治13年の本丸の大火では焼け残ったが、移築・改修されて、鱗縢院（旭北栄町）の山門になったと伝えられている。現在は柱を支えた礎石が残っている。",
+        "translation_by_google": "This is the remains of a multi-storey gate that was one of the gates leading from the Ninomaru to the Honmaru and was mainly used for entering and exiting at night. It was destroyed by two major fires and rebuilt each time. It survived the great fire of the Honmaru in 1880, but was moved and renovated, and is said to have become the mountain gate of Urokoin Temple (Asahi Hokuei-cho). Currently, the foundation stones supporting the pillars remain.",
+        "source": "All descriptions from the historical markers."
+    },
+    {
+        "id": 15,
+        "feature_id": 15,
+        "label": "P2",
+        "script": "本丸の奥からこの丸の土門方向へ通じる門であり、本丸の下の帯曲輪に続いている。門の構造等は不明であるが、絵図等の記載では、土塁の上を巡る板塀に連結される形に描かれている。",
+        "translation_by_google": "This gate leads from the back of the Honmaru to the direction of the earthen gate of this bailey, and continues to the Obikura below the Honmaru. The structure of the gate is unknown, but drawings and other descriptions show it connected to the wooden fence that runs over the top of the earthen ramparts.",
+        "source": "All descriptions from the historical markers."
+    }
+]
