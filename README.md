@@ -5,12 +5,12 @@ OnsiteRadioApp-public
 ![SaI_en-lightning-talk-onsite-radio-ai_20240623v4](https://github.com/user-attachments/assets/93044dc5-4e42-4ae8-92bb-9ee7d0bd0fc3)
 
 Thank you for your interest in our project.<br><br>
-This repository provides supplementary materials and data for the paper titled "[Paper title]", published in [Journal name].<br>
+This repository provides supplementary materials and data for the paper titled "Hierarchical Geofencing for Location-Aware Generative Audio Tours", published in Urban Informatics.<br>
 In this repository, we share core components of our Hierarchical Geofencing Framework, along with resources and experimental outputs.
 
 <br><br>
 __For academic use, please cite this work as follows:__  
-author 1, author2, and author 3. (2024). "XXX" _Journal name_.
+Sasaki, I., Arikawa, M., Lu, M., Utsumi, T. and Sato, R. Hierarchical geofencing for location-aware generative audio tours. Urban Info 3, 33 (2024). https://doi.org/10.1007/s44212-024-00064-6
 
 <br>
 
